@@ -11,14 +11,14 @@
             "id": "6f4eca206b6652e5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil 的出链列表"
             }
           },
           {
@@ -154,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil 的大纲"
             }
           },
           {
@@ -188,12 +191,51 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "6f4eca206b6652e5",
   "lastOpenFiles": [
-    "README.md",
-    "未命名.base"
+    "0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg",
+    "ff750a38ed3d1a0eb2153d3eb923c09b_MD5.svg",
+    "f00ab43b4d27fcd2865589fc8c7b76f1_MD5.jpg",
+    "98aa446467a450056dc9f0ae63fa0155_MD5.svg",
+    "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
+    "wiki/theory/LLM Wiki Philosophy.md",
+    "wiki/theory/LLM Wiki Architecture.md",
+    "wiki/theory/INDEX.md",
+    "wiki/INDEX.md",
+    "wiki/technical/Codex CLI.md",
+    "wiki/technical/MCP Integration.md",
+    "wiki/technical/INDEX.md.tmp.288696.1775490487161",
+    "wiki/technical/Codex Schema Index.md.tmp.288696.1775490477942",
+    "wiki/technical/Codex CLI.md.tmp.288696.1775490470920",
+    "raw/codex-cli-help.txt",
+    "wiki/technical/Codex Schema Index.md",
+    "wiki/technical/Turn.md",
+    "wiki/technical/Thread.md",
+    "raw/openaicodex.md",
+    "wiki/technical/Codex Schema Index.md.tmp.288696.1775487379952",
+    "wiki/technical/Codex Schema Index.md.tmp.288696.1775487372048",
+    "wiki/technical/File System.md",
+    "wiki/technical/File System.md.tmp.288696.1775487349844",
+    "wiki/technical/Command Execution.md",
+    "wiki/technical/Command Execution.md.tmp.288696.1775487337362",
+    "wiki/technical/Codex Schema Index.md.tmp.288696.1775487325816",
+    "wiki/technical/Core Primitives.md.tmp.288696.1775487314487",
+    "wiki/technical/ThreadItem.md",
+    "wiki/technical/Skills.md",
+    "Events.md",
+    "wiki/theory/LLM Wiki Operations.md",
+    "wiki/theory/openaicodex.md",
+    "raw/llm-wiki.md",
+    "wiki/technical/Core Primitives.md",
+    "raw/openaicodex Lightweight coding agent that runs in your terminal.md",
+    "wiki/technical/INDEX.md",
+    "wiki/technical/Lifecycle.md",
+    "wiki/technical/Protocol.md",
+    "openaicodex.md"
   ]
 }
