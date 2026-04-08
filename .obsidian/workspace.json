@@ -11,14 +11,14 @@
             "id": "6f4eca206b6652e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
-                "mode": "source",
-                "source": false
+                "aFile": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
+                "bFile": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil"
+              "icon": "diff",
+              "title": "Diff: ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil  (Working Tree)"
             }
           }
         ]
@@ -198,13 +198,14 @@
   },
   "active": "6f4eca206b6652e5",
   "lastOpenFiles": [
+    "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
+    "wiki/theory/openaicodex.md",
+    "wiki/theory/LLM Wiki Philosophy.md",
     "0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg",
+    "wiki/theory/LLM Wiki Architecture.md",
     "ff750a38ed3d1a0eb2153d3eb923c09b_MD5.svg",
     "f00ab43b4d27fcd2865589fc8c7b76f1_MD5.jpg",
     "98aa446467a450056dc9f0ae63fa0155_MD5.svg",
-    "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
-    "wiki/theory/LLM Wiki Philosophy.md",
-    "wiki/theory/LLM Wiki Architecture.md",
     "wiki/theory/INDEX.md",
     "wiki/INDEX.md",
     "wiki/technical/Codex CLI.md",
@@ -229,7 +230,6 @@
     "wiki/technical/Skills.md",
     "Events.md",
     "wiki/theory/LLM Wiki Operations.md",
-    "wiki/theory/openaicodex.md",
     "raw/llm-wiki.md",
     "wiki/technical/Core Primitives.md",
     "raw/openaicodex Lightweight coding agent that runs in your terminal.md",
