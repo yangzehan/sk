@@ -11,17 +11,54 @@
             "id": "6f4eca206b6652e5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
-                "bFile": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
-                "aRef": ""
+                "file": "image/0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg"
               },
-              "icon": "diff",
-              "title": "Diff: ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil  (Working Tree)"
+              "icon": "lucide-image",
+              "title": "0f06e59710796d1a59ecd5fad78eea4e_MD5"
+            }
+          },
+          {
+            "id": "cf805874ea57d60f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "0f06e59710796d1a59ecd5fad78eea4e_MD5"
+            }
+          },
+          {
+            "id": "1b5a9867281c9331",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "0f06e59710796d1a59ecd5fad78eea4e_MD5"
+            }
+          },
+          {
+            "id": "7827d10a9123ee4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,16 +233,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6f4eca206b6652e5",
+  "active": "7827d10a9123ee4a",
   "lastOpenFiles": [
+    "image/f00ab43b4d27fcd2865589fc8c7b76f1_MD5.jpg",
+    "image/98aa446467a450056dc9f0ae63fa0155_MD5.svg",
+    "image/0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg",
+    "image",
     "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
+    "raw/llm-wiki.md",
+    "raw/openaicodex.md",
+    "image/ff750a38ed3d1a0eb2153d3eb923c09b_MD5.svg",
     "wiki/theory/openaicodex.md",
     "wiki/theory/LLM Wiki Philosophy.md",
-    "0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg",
     "wiki/theory/LLM Wiki Architecture.md",
-    "ff750a38ed3d1a0eb2153d3eb923c09b_MD5.svg",
-    "f00ab43b4d27fcd2865589fc8c7b76f1_MD5.jpg",
-    "98aa446467a450056dc9f0ae63fa0155_MD5.svg",
     "wiki/theory/INDEX.md",
     "wiki/INDEX.md",
     "wiki/technical/Codex CLI.md",
@@ -217,7 +257,6 @@
     "wiki/technical/Codex Schema Index.md",
     "wiki/technical/Turn.md",
     "wiki/technical/Thread.md",
-    "raw/openaicodex.md",
     "wiki/technical/Codex Schema Index.md.tmp.288696.1775487379952",
     "wiki/technical/Codex Schema Index.md.tmp.288696.1775487372048",
     "wiki/technical/File System.md",
@@ -225,12 +264,10 @@
     "wiki/technical/Command Execution.md",
     "wiki/technical/Command Execution.md.tmp.288696.1775487337362",
     "wiki/technical/Codex Schema Index.md.tmp.288696.1775487325816",
-    "wiki/technical/Core Primitives.md.tmp.288696.1775487314487",
     "wiki/technical/ThreadItem.md",
     "wiki/technical/Skills.md",
     "Events.md",
     "wiki/theory/LLM Wiki Operations.md",
-    "raw/llm-wiki.md",
     "wiki/technical/Core Primitives.md",
     "raw/openaicodex Lightweight coding agent that runs in your terminal.md",
     "wiki/technical/INDEX.md",
