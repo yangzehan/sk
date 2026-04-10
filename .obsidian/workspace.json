@@ -47,18 +47,40 @@
             "id": "7827d10a9123ee4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
-                "mode": "source",
-                "source": false
+                "file": "image/e94d979a1c47c79db35a8c8bfd6006a1_MD5.jpg"
               },
-              "icon": "lucide-file",
-              "title": "ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil"
+              "icon": "lucide-image",
+              "title": "e94d979a1c47c79db35a8c8bfd6006a1_MD5"
+            }
+          },
+          {
+            "id": "7923f76e7f59320a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/b03b1be98c31df40c6e94a5668a81898_MD5.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "b03b1be98c31df40c6e94a5668a81898_MD5"
+            }
+          },
+          {
+            "id": "bbb0a7400eece6b1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/e94d979a1c47c79db35a8c8bfd6006a1_MD5.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "e94d979a1c47c79db35a8c8bfd6006a1_MD5"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -233,13 +255,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7827d10a9123ee4a",
+  "active": "ce7568f4429b44b6",
   "lastOpenFiles": [
+    "image/aaf94682ae755fe78bd1289f8ee45b40_MD5.jpg",
+    "image/b03b1be98c31df40c6e94a5668a81898_MD5.jpg",
+    "image/e94d979a1c47c79db35a8c8bfd6006a1_MD5.jpg",
+    "raw/The advisor strategy Give Sonnet an intelligence boost with Opus.md",
+    "image/166a1305c44c29e743a0f8b58ddcced0_MD5.jpg",
+    "raw/Advisor tool.md",
+    "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
+    "war/Advisor tool.md",
+    "war",
+    "Clippings/Advisor tool.md",
+    "Clippings",
     "image/f00ab43b4d27fcd2865589fc8c7b76f1_MD5.jpg",
     "image/98aa446467a450056dc9f0ae63fa0155_MD5.svg",
     "image/0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg",
     "image",
-    "raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md",
     "raw/llm-wiki.md",
     "raw/openaicodex.md",
     "image/ff750a38ed3d1a0eb2153d3eb923c09b_MD5.svg",
@@ -262,17 +294,11 @@
     "wiki/technical/File System.md",
     "wiki/technical/File System.md.tmp.288696.1775487349844",
     "wiki/technical/Command Execution.md",
-    "wiki/technical/Command Execution.md.tmp.288696.1775487337362",
-    "wiki/technical/Codex Schema Index.md.tmp.288696.1775487325816",
     "wiki/technical/ThreadItem.md",
     "wiki/technical/Skills.md",
     "Events.md",
     "wiki/theory/LLM Wiki Operations.md",
     "wiki/technical/Core Primitives.md",
-    "raw/openaicodex Lightweight coding agent that runs in your terminal.md",
-    "wiki/technical/INDEX.md",
-    "wiki/technical/Lifecycle.md",
-    "wiki/technical/Protocol.md",
-    "openaicodex.md"
+    "raw/openaicodex Lightweight coding agent that runs in your terminal.md"
   ]
 }

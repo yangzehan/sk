@@ -25,6 +25,6 @@
   "DoNotCreateObsFolder": false,
   "DateFormat": "YYYY MM DD",
   "ImgCompressionType": "image/jpeg",
-  "ExcludedFoldersList": "",
-  "ExcludedFoldersListRegexp": ""
+  "ExcludedFoldersList": "/image",
+  "ExcludedFoldersListRegexp": "(^image$)"
 }
