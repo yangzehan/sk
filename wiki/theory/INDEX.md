@@ -15,3 +15,8 @@ created: 2026-04-06
 ## 来源
 
 - [[openaicodex|Karpathy LLM Wiki 原始文档]]
+
+## 新增主题
+
+- [[Advisor Strategy]] - Agent 顾问架构模式
+- [[OpenPencil]] - AI 原生设计工具

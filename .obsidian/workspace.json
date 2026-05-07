@@ -71,12 +71,14 @@
             "id": "bbb0a7400eece6b1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/e94d979a1c47c79db35a8c8bfd6006a1_MD5.jpg"
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "e94d979a1c47c79db35a8c8bfd6006a1_MD5"
+              "icon": "lucide-file",
+              "title": "CLAUDE"
             }
           }
         ],
@@ -255,11 +257,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce7568f4429b44b6",
+  "active": "bbb0a7400eece6b1",
   "lastOpenFiles": [
+    "wiki/log.md",
+    "wiki/log.md.tmp.224823.1775813103210",
+    "wiki/INDEX.md.tmp.224823.1775813095113",
+    "wiki/theory/INDEX.md.tmp.224823.1775813085971",
+    "wiki/theory/OpenPencil.md",
+    "wiki/theory/OpenPencil.md.tmp.224823.1775813081519",
+    "wiki/theory/Advisor Strategy.md",
+    "wiki/theory/Advisor Strategy.md.tmp.224823.1775813081468",
+    "image/e94d979a1c47c79db35a8c8bfd6006a1_MD5.jpg",
     "image/aaf94682ae755fe78bd1289f8ee45b40_MD5.jpg",
     "image/b03b1be98c31df40c6e94a5668a81898_MD5.jpg",
-    "image/e94d979a1c47c79db35a8c8bfd6006a1_MD5.jpg",
     "raw/The advisor strategy Give Sonnet an intelligence boost with Opus.md",
     "image/166a1305c44c29e743a0f8b58ddcced0_MD5.jpg",
     "raw/Advisor tool.md",
@@ -284,21 +294,14 @@
     "wiki/technical/MCP Integration.md",
     "wiki/technical/INDEX.md.tmp.288696.1775490487161",
     "wiki/technical/Codex Schema Index.md.tmp.288696.1775490477942",
-    "wiki/technical/Codex CLI.md.tmp.288696.1775490470920",
-    "raw/codex-cli-help.txt",
     "wiki/technical/Codex Schema Index.md",
     "wiki/technical/Turn.md",
     "wiki/technical/Thread.md",
-    "wiki/technical/Codex Schema Index.md.tmp.288696.1775487379952",
-    "wiki/technical/Codex Schema Index.md.tmp.288696.1775487372048",
     "wiki/technical/File System.md",
-    "wiki/technical/File System.md.tmp.288696.1775487349844",
     "wiki/technical/Command Execution.md",
     "wiki/technical/ThreadItem.md",
     "wiki/technical/Skills.md",
     "Events.md",
-    "wiki/theory/LLM Wiki Operations.md",
-    "wiki/technical/Core Primitives.md",
-    "raw/openaicodex Lightweight coding agent that runs in your terminal.md"
+    "wiki/theory/LLM Wiki Operations.md"
   ]
 }
