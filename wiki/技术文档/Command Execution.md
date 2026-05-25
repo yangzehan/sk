@@ -64,5 +64,5 @@ type CommandAction =
 
 ## 来源
 
-- Schema: `raw/codex-app-server-schema/ts/v2/CommandExecParams.ts`
+- Schema: `原始资料/codex-app-server-schema/ts/v2/CommandExecParams.ts`
 - 详见: [[openaicodex]]

@@ -41,5 +41,5 @@ type TurnStatus =
 
 ## 来源
 
-- Schema: `raw/codex-app-server-schema/ts/v2/Turn.ts`
+- Schema: `原始资料/codex-app-server-schema/ts/v2/Turn.ts`
 - 详见: [[openaicodex]]

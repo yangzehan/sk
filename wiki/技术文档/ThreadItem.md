@@ -93,5 +93,5 @@ ThreadItem 是一个 discriminated union，包含以下类型：
 
 ## 来源
 
-- Schema: `raw/codex-app-server-schema/ts/v2/ThreadItem.ts`
+- Schema: `原始资料/codex-app-server-schema/ts/v2/ThreadItem.ts`
 - 详见: [[openaicodex]]

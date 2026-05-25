@@ -61,4 +61,4 @@ Codex App-Server 的 TypeScript 类型定义，来源于 `codex-app-server-schem
 
 ## 来源
 
-- 源文件: `raw/codex-app-server-schema/ts/v2/`
+- 源文件: `原始资料/codex-app-server-schema/ts/v2/`

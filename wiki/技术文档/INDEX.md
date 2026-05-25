@@ -18,3 +18,6 @@ created: 2026-04-06
 ## 来源
 
 - [[openaicodex|OpenAI Codex 官方文档]]
+
+
+- [[ClickHouse TOO_MANY_PARTS 故障排查]] - ClickHouse TOO_MANY_PARTS 问题根因与解决方案（2026-05-25）

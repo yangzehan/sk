@@ -2,7 +2,7 @@
 title: Advisor Strategy
 type: concept
 created: 2026-04-10
-source: raw/Advisor tool.md, raw/The advisor strategy Give Sonnet an intelligence boost with Opus.md
+source: 原始资料/Advisor tool.md, 原始资料/The advisor strategy Give Sonnet an intelligence boost with Opus.md
 tags:
   - agent-pattern
   - claude

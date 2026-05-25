@@ -54,5 +54,5 @@ type McpAuthStatus =
 
 ## 来源
 
-- Schema: `raw/codex-app-server-schema/ts/v2/McpToolCallStatus.ts`
+- Schema: `原始资料/codex-app-server-schema/ts/v2/McpToolCallStatus.ts`
 - 详见: [[openaicodex]]

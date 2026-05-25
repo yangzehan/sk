@@ -58,5 +58,5 @@ type ThreadStatus =
 
 ## 来源
 
-- Schema: `raw/codex-app-server-schema/ts/v2/Thread.ts`
+- Schema: `原始资料/codex-app-server-schema/ts/v2/Thread.ts`
 - 详见: [[openaicodex]]

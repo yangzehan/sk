@@ -131,5 +131,5 @@ Commands:
 
 ## 来源
 
-- 原始帮助: [[raw/codex-cli-help.txt]]
+- 原始帮助: [[原始资料/codex-cli-help.txt]]
 - 官方文档: [[openaicodex]]

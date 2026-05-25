@@ -2,7 +2,7 @@
 title: OpenPencil
 type: tool
 created: 2026-04-07
-source: raw/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md
+source: 原始资料/ZSeven-Wopenpencil The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.md
 tags:
   - design-tool
   - ai-agent
