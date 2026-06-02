@@ -65,5 +65,5 @@ OpenPencil 内置 MCP 服务器，可与多种 Agent CLI 集成：
 
 ## 相关资源
 
-- [[Advisor Strategy]] - Agent 架构模式
-- [[LLM Wiki Architecture|LLM Wiki 架构]] - 知识管理
+- [[顾问策略]] - Agent 架构模式
+- [[架构|LLM Wiki 架构]] - 知识管理
