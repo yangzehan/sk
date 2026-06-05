@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/ClickHouse/22.2-23.8升级与Keeper迁移执行计划.md",
+                "file": "wiki/opencode/实践/opencode TUI 与 Config-InstanceState 生命周期集成知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.2-23.8升级与Keeper迁移执行计划"
+              "title": "opencode TUI 与 Config-InstanceState 生命周期集成知识"
             }
           }
         ]
@@ -196,11 +196,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7dca1efe3b39952c",
+  "active": "ce7568f4429b44b6",
   "lastOpenFiles": [
+    "wiki/ClickHouse/22.2-23.8升级与Keeper迁移执行计划.md",
+    "wiki/opencode/实践/opencode Config 内存内更新机制研究.md",
+    "wiki/opencode/实践/opencode TUI 与 Config-InstanceState 生命周期集成知识.md",
     "wiki/ClickHouse/知识指南.md",
     "wiki/ClickHouse/Keeper验证脚本.md",
-    "wiki/ClickHouse/22.2-23.8升级与Keeper迁移执行计划.md",
     "wiki/实践/INDEX.md.tmp.465886.1779847978617",
     "wiki/INDEX.md.tmp.465886.1779847978520",
     "wiki/ClickHouse/Keeper验证脚本.md.tmp.465886.1779847914671",
@@ -232,7 +234,6 @@
     "wiki/Codex/模式/MCP-集成.md",
     "wiki/Codex/模式/技能系统.md",
     "wiki/Codex/参考/Codex-Schema-索引.md",
-    "wiki/Codex/参考/Codex-CLI.md",
     "image/aaf94682ae755fe78bd1289f8ee45b40_MD5.jpg",
     "image/98aa446467a450056dc9f0ae63fa0155_MD5.svg",
     "image/0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg",

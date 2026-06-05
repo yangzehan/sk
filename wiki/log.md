@@ -1,5 +1,41 @@
 # Wiki 日志
 
+## [2026-06-04] ingest | OpenCode 桌面端 /skills 弹窗
+
+### 新增主题
+- `wiki/opencode/` - OpenCode 项目知识库
+  - 涵盖: Skills 系统、桌面端/TUI 架构对比、桌面端命令系统、本次实施记录
+
+### 新增页面
+- `wiki/opencode/INDEX.md` - 主题索引
+- `wiki/opencode/架构/桌面端 vs TUI 架构对比.md` - 桌面端与 TUI 架构差异
+  - 来源: `原始资料/opencode/01-skills-系统调查-代码路径与执行逻辑.md`
+  - 涵盖: 命令系统、斜杠处理、弹窗组件对比
+
+- `wiki/opencode/架构/桌面端命令系统.md` - 命令注册机制
+  - 涵盖: CommandProvider、withCategory 工厂、Dialog 系统、List 组件
+
+- `wiki/opencode/skills 系统/Skills 系统.md` - Skills 系统实现
+  - 涵盖: 发现机制、注册为 command、API 端点、source 字段语义
+
+- `wiki/opencode/实践/实施记录 - 桌面端 /skills 弹窗.md` - 本次实施记录
+  - 来源: `原始资料/opencode/02-实施计划与设计决策.md`
+  - 涵盖: 改动清单、关键设计、验证结果、边缘情况、手动测试用例
+
+### 原始资料
+- `原始资料/opencode/01-skills-系统调查-代码路径与执行逻辑.md` - 代码路径 + 执行逻辑
+- `原始资料/opencode/02-实施计划与设计决策.md` - 计划文件 + 决策点
+
+### 更新的索引
+- `wiki/INDEX.md` - 新增"opencode"主题
+- `wiki/log.md` - 本条记录
+
+### 实施结果
+- 新建文件 1 个（dialog-select-skill.tsx）
+- 修改文件 19 个（use-session-commands.tsx、prompt-input.tsx、18 个 i18n）
+- 验证: typecheck ✅、parity test ✅（1 pass / 68 expects）、unit tests ✅（339 pass / 0 fail）
+
+
 ## [2026-05-25] 目录结构重组
 
 ### 新结构
