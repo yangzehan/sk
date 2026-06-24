@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2db4ffa443007d3",
+        "id": "65cc4a861fef3017",
         "type": "tabs",
         "children": [
           {
-            "id": "7dca1efe3b39952c",
+            "id": "94186a6fef3c6d68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/opencode/实践/opencode TUI 与 Config-InstanceState 生命周期集成知识.md",
+                "file": "wiki/实践/ClickHouse TOO_MANY_PARTS 故障排查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "opencode TUI 与 Config-InstanceState 生命周期集成知识"
+              "title": "ClickHouse TOO_MANY_PARTS 故障排查"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.49999618530273
   },
   "right": {
     "id": "e3d95ebc858f72c0",
@@ -196,11 +196,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce7568f4429b44b6",
+  "active": "94186a6fef3c6d68",
   "lastOpenFiles": [
+    "2026-06-23.md",
+    "原始资料/pi-web-access 插件源码深度分析.md",
+    "__tasks_test.md",
+    "原始资料/_test_moved.md",
+    "wiki/opencode/实践/opencode TUI 与 Config-InstanceState 生命周期集成知识.md",
     "wiki/ClickHouse/22.2-23.8升级与Keeper迁移执行计划.md",
     "wiki/opencode/实践/opencode Config 内存内更新机制研究.md",
-    "wiki/opencode/实践/opencode TUI 与 Config-InstanceState 生命周期集成知识.md",
     "wiki/ClickHouse/知识指南.md",
     "wiki/ClickHouse/Keeper验证脚本.md",
     "wiki/实践/INDEX.md.tmp.465886.1779847978617",
@@ -230,10 +234,6 @@
     "wiki/Codex/实践/OpenPencil.md",
     "wiki/Codex/模式/顾问策略.md",
     "wiki/Codex/模式/命令执行.md",
-    "wiki/Codex/模式/文件系统.md",
-    "wiki/Codex/模式/MCP-集成.md",
-    "wiki/Codex/模式/技能系统.md",
-    "wiki/Codex/参考/Codex-Schema-索引.md",
     "image/aaf94682ae755fe78bd1289f8ee45b40_MD5.jpg",
     "image/98aa446467a450056dc9f0ae63fa0155_MD5.svg",
     "image/0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg",
