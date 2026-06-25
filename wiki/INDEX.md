@@ -1,11 +1,11 @@
 ---
-title: Codex Knowledge Wiki
+title: Knowledge Wiki Index
 type: index
 created: 2026-04-06
-updated: 2026-06-04
+updated: 2026-06-25
 ---
 
-# Codex Knowledge Wiki
+# Knowledge Wiki Index
 
 ## 知识分类
 
@@ -15,6 +15,9 @@ Codex App-Server 技术文档
 ### [[LLM-Wiki/INDEX|LLM-Wiki]]
 LLM Wiki 方法论 - Karpathy 的知识库模式
 
+### [[Claude/INDEX|Claude]]
+Anthropic Claude — 人机协作团队、Multiplayer Agents、Claude Tag
+
 ### [[实践/INDEX|实践]]
 故障排查与实战记录
 
@@ -23,6 +26,14 @@ ClickHouse 知识库 — 架构、升级迁移、脚本工具
 
 ### [[opencode/INDEX|opencode]]
 OpenCode 项目 — Skills 系统、桌面端/TUI 架构对比、命令系统
+
+---
+
+## 新增 (2026-06-25)
+
+- `wiki/Claude/` 主题扩展
+  - 来源: `原始资料/Building Effective Human-Agent Teams - Claude Blog.md`、`原始资料/Anthropic Building Effective Agents - Engineering Blog.md`、`原始资料/Anthropic Equipping Agents with Skills.md`、`原始资料/Introducing Claude Tag.md`、`原始资料/What is Claude Tag.md`、`原始资料/Agent identity a new access model for autonomous, team-wide AI.md`、`原始资料/Harness design for long-running application development.md`
+  - 涵盖: 四大经验教训、Multiplayer Agents 概念、智能体官方定义、Agent Identity 访问模型、Claude Tag 产品 + 设置与数据/记忆、Doer-Verifier + 生成器-评估器架构、Harness 设计、Skill Files 规范
 
 ---
 
