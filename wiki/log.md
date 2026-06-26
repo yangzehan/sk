@@ -219,3 +219,35 @@ wiki/
 
 ### 更新的索引
 - `wiki/实践/INDEX.md` - 新增 ClickHouse TOO_MANY_PARTS 故障排查条目
+
+## [2026-06-26] ingest | pi-hermes-memory 插件源码解析
+
+### 来源
+本地安装的 `pi-hermes-memory@0.7.20` 源码，位于 `/home/yzh/.pi/agent/npm/node_modules/pi-hermes-memory/src/`。
+本次会话（2026-06-26）通过逐行分析 + 提问式拆解完成全面解析。
+
+### 新增 Wiki 页面
+- `wiki/pi-hermes-memory/INDEX.md` - 主题索引
+  - 涵盖: 知识分类、关键配置速记、源码路径、关联概念、全文搜索关键词
+- `wiki/pi-hermes-memory/概览.md` - 插件概览
+  - 涵盖: 元信息、入口架构、9 命令 + 4 工具清单、28 配置项分组、数据目录布局、与 pi-coding-agent 集成点、关键设计哲学
+- `wiki/pi-hermes-memory/系统提示词注入.md` - 注入机制
+  - 涵盖: 注入点、buildPromptContext 入口、`memoryMode` 二选一、`memoryPolicyStyle` 四选一、policy-only 默认注入字符串、legacy-inject 4 段注入规则（全局 MEMORY/USER/failure + 项目级 memory）、frozen snapshot 设计、`<memory-context>` fence 隔离、配置改法
+- `wiki/pi-hermes-memory/后台机制 - 三大处理器.md` - 后台机制
+  - 涵盖: Background Review 流程（10 turn / 15 tool call）、Session Flush（compaction await + shutdown fire-and-forget）、Correction Detection 2-pass 过滤（强/弱/否定/指令词）+ 速率限制 3 turn、事件生命周期对比（`turn_end` vs `session_before_compact` vs `session_shutdown`）
+- `wiki/pi-hermes-memory/auto-consolidate 子进程设计.md` - 子进程深入
+  - 涵盖: `pi -p --no-session --no-extensions -e OWN_EXTENSION_PATH` 完全独立子进程、CONSOLIDATION_PROMPT 全文、retry 策略（override 失败自动剥 override 重试）、三种 overflow 策略（`auto-consolidate` / `reject` / `fifo-evict`）执行细节、与 `/memory-consolidate` 命令的区别、整体流程图
+
+### 更新的 Wiki 页面
+- `wiki/INDEX.md` - 新增 `pi-hermes-memory` 主题入口 + "新增 (2026-06-26)" 部分
+
+### 知识图关联
+- [[Skill Files 角色定义]] - pi-hermes-memory 的 `skill_manage` 工具实现 SKILL.md 三层渐进式披露
+- [[Lesson 2 角色与工具]] - 持久化 memory 是 Pi 的"长期记忆"角色
+- [[Claude Tag 数据与记忆]] - Claude Tag 记忆作用域（Org/WS/Private） vs pi-hermes-memory 4 个 target（user/memory/project/failure）
+- [[LLM-Wiki/核心理念]] - 整个知识库方法论
+
+### 用户偏好确认
+- 主题目录创建在 `wiki/pi-hermes-memory/` 而非 `wiki/Pi/`，与 `wiki/opencode/` 等其他工具主题保持命名风格一致
+- 所有页面用 YAML frontmatter、wikilink 互链、blockquote 引用、emoji 章节标题
+- `type` 字段：INDEX = index、概览 = overview、系统提示词 = pattern、后台机制 = system、auto-consolidate = reference

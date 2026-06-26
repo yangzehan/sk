@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25fb98aaaf97a095",
+        "id": "761392de6b990a27",
         "type": "tabs",
         "children": [
           {
-            "id": "d0cea00a64915323",
+            "id": "249db8650ec4de75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "原始资料/What is Claude Tag.md",
+                "file": "原始资料/Advisor tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Claude Tag"
+              "title": "Advisor tool"
             }
           }
         ]
@@ -74,11 +74,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 209.49999618530273
+    "width": 377.49999618530273
   },
   "right": {
     "id": "e3d95ebc858f72c0",
@@ -196,39 +197,40 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce7568f4429b44b6",
+  "active": "6b763cb3db4b430b",
   "lastOpenFiles": [
-    "wiki/Claude/生成器-评估器架构.md",
-    "wiki/Claude/Harness 设计 - 长时应用开发.md",
-    "wiki/Claude/Claude Tag 数据与记忆.md",
-    "wiki/Claude/Claude Tag 设置与管理.md",
-    "wiki/Claude/Agent Identity 访问模型.md",
-    "原始资料/Harness design for long-running application development.md",
-    "原始资料/What is Claude Tag.md",
+    "wiki/实践/ClickHouse TOO_MANY_PARTS 故障排查.md",
     "cee97302151b40baf38902ab50b6a68e_MD5.webp",
-    "79653bac3243630821d0e1313ada9b1c_MD5.webp",
-    "原始资料/Agent identity a new access model for autonomous, team-wide AI.md",
     "bfe88025c9517283a0970f05ec7e82de_MD5.jpg",
-    "CLAUDE.md",
-    "ClickHouse TOO_MANY_SIMULTANEOUS_QUERIES 排查手册.md",
+    "79653bac3243630821d0e1313ada9b1c_MD5.webp",
     "f77bfa9d5b91cca91395e33795a31a8f_MD5.webp",
-    "原始资料/Introducing Claude Tag.md",
-    "原始资料/Building Effective Human-Agent Teams - Claude Blog.md",
-    "raw",
+    "ClickHouse TOO_MANY_SIMULTANEOUS_QUERIES 排查手册.md",
+    "wiki/INDEX.md",
+    "wiki/pi-hermes-memory/auto-consolidate 子进程设计.md",
+    "wiki/pi-hermes-memory/后台机制 - 三大处理器.md",
+    "wiki/pi-hermes-memory/系统提示词注入.md",
+    "wiki/pi-hermes-memory/概览.md",
+    "wiki/pi-hermes-memory/INDEX.md",
     "wiki/Claude/Doer-Verifier 框架.md",
-    "wiki/Claude/Lesson 4 信任建立.md",
+    "Untitled.md",
+    "wiki/pi-hermes-memory",
+    "wiki/Claude/Harness 设计 - 长时应用开发.md",
+    "wiki/Claude/Agent Identity 访问模型.md",
     "wiki/Claude/Multiplayer Agents 概念.md",
     "wiki/Claude/INDEX.md",
-    "wiki/Claude/Lesson 1 公开工作.md",
-    "wiki/Claude/Skill Files 角色定义.md",
-    "wiki/Claude/Lesson 2 角色与工具.md",
+    "wiki/Claude/Claude Tag 数据与记忆.md",
+    "wiki/Claude/Claude Tag.md",
+    "wiki/Claude/Claude Tag 设置与管理.md",
     "wiki/Claude/构建有效的人机协作团队.md",
+    "wiki/Claude/生成器-评估器架构.md",
     "wiki/Claude/智能体官方定义.md",
-    "原始资料/Anthropic Equipping Agents with Skills.md",
-    "原始资料/Anthropic Building Effective Agents - Engineering Blog.md",
-    "wiki/INDEX.md",
     "wiki/WSL调用Windows Maven.md",
-    "wiki/Claude/Lesson 3 北极星.md",
+    "原始资料/What is Claude Tag.md",
+    "原始资料/Harness design for long-running application development.md",
+    "原始资料/Agent identity a new access model for autonomous, team-wide AI.md",
+    "CLAUDE.md",
+    "原始资料/Introducing Claude Tag.md",
+    "raw",
     "wiki/Claude",
     "wiki/实践/INDEX.md.tmp.465886.1779847978617",
     "wiki/INDEX.md.tmp.465886.1779847978520",
@@ -237,7 +239,6 @@
     "wiki/ClickHouse/知识指南.md.tmp.465886.1779847694884",
     "wiki/ClickHouse/INDEX.md.tmp.465886.1779847694815",
     "wiki/ClickHouse",
-    "wiki/Codex/实践/OpenPencil.md.tmp.308576.1779677773507",
     "image/aaf94682ae755fe78bd1289f8ee45b40_MD5.jpg",
     "image/98aa446467a450056dc9f0ae63fa0155_MD5.svg",
     "image/0f06e59710796d1a59ecd5fad78eea4e_MD5.jpg",

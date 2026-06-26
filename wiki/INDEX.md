@@ -2,7 +2,7 @@
 title: Knowledge Wiki Index
 type: index
 created: 2026-04-06
-updated: 2026-06-25
+updated: 2026-06-26
 ---
 
 # Knowledge Wiki Index
@@ -18,6 +18,9 @@ LLM Wiki 方法论 - Karpathy 的知识库模式
 ### [[Claude/INDEX|Claude]]
 Anthropic Claude — 人机协作团队、Multiplayer Agents、Claude Tag
 
+### [[pi-hermes-memory/INDEX|pi-hermes-memory]]
+Pi 编码 Agent 的持久化记忆插件（chandra447/pi-hermes-memory）—— 注入机制、配置项、后台处理器、子进程设计
+
 ### [[实践/INDEX|实践]]
 故障排查与实战记录
 
@@ -26,6 +29,14 @@ ClickHouse 知识库 — 架构、升级迁移、脚本工具
 
 ### [[opencode/INDEX|opencode]]
 OpenCode 项目 — Skills 系统、桌面端/TUI 架构对比、命令系统
+
+---
+
+## 新增 (2026-06-26)
+
+- `wiki/pi-hermes-memory/` 主题新建
+  - 来源: 本次会话（2026-06-26）对本地安装的 `pi-hermes-memory@0.7.20` 源码逐行解析
+  - 涵盖: 插件定位、9 命令 + 4 工具、28 配置项、`memoryMode` / `memoryPolicyStyle` 注入规则、`<memory-context>` fence、frozen snapshot、background review / session flush / correction detection 三大处理器、auto-consolidate 子进程设计（`pi -p --no-session --no-extensions`）、三种 overflow 策略（`auto-consolidate` / `reject` / `fifo-evict`）、correction 2-pass 文本匹配、事件生命周期对比
 
 ---
 
